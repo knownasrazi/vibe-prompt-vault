@@ -32,17 +32,13 @@ cd vibe-prompt-vault
 bun install
 bun run dev
 ```
-
-## Structure
-
-```
 vibe-prompt-vault/
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ App.tsx      # app shell
-â”‚   â””â”€â”€ index.css    # cream tokens
-â”œâ”€â”€ index.html
-â”œâ”€â”€ vite.config.ts
-â””â”€â”€ package.json
+  src/
+    App.tsx      # app shell
+    index.css    # cream tokens
+  index.html
+  vite.config.ts
+  package.json
 ```
 
 ## Cream tokens
