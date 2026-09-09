@@ -16,7 +16,7 @@
 
 ## Manifesto
 
-Cream over chrome. Stone over shadow. This is a tool that gets out of your way.
+Clean over chrome. Stone over shadow. This is a tool that gets out of your way.
 
 > "Local prompt manager for vibe coders - capture, organize, and reuse AI prompts."
 
@@ -25,7 +25,7 @@ No onboarding. No dashboard. Just open and go.
 ## Stack
 
 - TypeScript + Vite
-- Cream tokens: #fdfcfa / #ebe7e0 / #1a1a1a
+- Clean tokens: #fdfcfa / #ebe7e0 / #1a1a1a
 - No tracking, no analytics by default
 
 ## Quick start
